@@ -1,0 +1,16 @@
+filename = 'AdvancedAE-1.3.0-1.21.1.jar'
+name = 'AdvancedAE'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'de675837bf96b23756599057d84cf968cdeaa9586cfaa111809c13af59100469cad73f1edd1eeec8685ef5aa2921067bdb5831639d755f7ca7289201104fe593'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rxYaglEe/versions/Qi5k4qWd/AdvancedAE-1.3.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'rxYaglEe'
+version = 'Qi5k4qWd'

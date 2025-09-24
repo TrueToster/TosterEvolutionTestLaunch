@@ -1,0 +1,110 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "53EF2B896F6664AF"
+	group: ""
+	id: "53EF2B896F6664AF"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4517F46D4CA721FC"
+			tasks: [{
+				id: "35BFD8CABBA28F32"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "7AFDCBDDFA1F4C93"
+			tasks: [{
+				id: "10654A6675643537"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "26A6F1966BA19C3F"
+			tasks: [{
+				id: "7F8BB8D8BA038F08"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "7D94AA9B2D275028"
+			tasks: [{
+				id: "6F1AF3B79CAD2061"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "73EE697936095E75"
+			tasks: [{
+				id: "63F03EABAE258AE3"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "7CAA277517E43558"
+			tasks: [{
+				id: "56FDF8D2184D8164"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "526065DAF6921707"
+			tasks: [{
+				id: "29425E097783882F"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "18B62727AEFBB521"
+			tasks: [{
+				id: "49FBCFBFBB1EC562"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "2695DB1EBC00737D"
+			tasks: [{
+				id: "147552458FC7DADE"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "379D7F627A66071C"
+			tasks: [{
+				id: "0E13EAAE886F3AAE"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "5BF41E64E2785F90"
+			tasks: [{
+				id: "5A8BA73B26C61F3C"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+	]
+}

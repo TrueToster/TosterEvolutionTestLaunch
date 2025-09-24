@@ -1,0 +1,15 @@
+
+# files
+icon.png
+options.txt
+command_history.txt
+usercache.json
+usernamecache.json
+
+# dir
+shaderpacks/
+texturepacks/
+saves/
+logs/
+crash-reports/
+xaero/
