@@ -1,0 +1,108 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 2025-09-21 18:14:10
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: mekanismadditions --
+Details:
+	Mod file: /C:/Users/danbro/AppData/Roaming/PrismLauncher/instances/SleepDevNew/minecraft/mods/MekanismAdditions-1.21.1-10.7.16.82.jar
+	Failure message: Mod mekanismadditions requires mekanism 10.7.16
+		Currently, mekanism is 10.7.15
+		
+	Mod version: 10.7.16
+	Mod issues URL: https://github.com/mekanism/Mekanism/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: mekanismgenerators --
+Details:
+	Mod file: /C:/Users/danbro/AppData/Roaming/PrismLauncher/instances/SleepDevNew/minecraft/mods/MekanismGenerators-1.21.1-10.7.16.82.jar
+	Failure message: Mod mekanismgenerators requires mekanism 10.7.16
+		Currently, mekanism is 10.7.15
+		
+	Mod version: 10.7.16
+	Mod issues URL: https://github.com/mekanism/Mekanism/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: mekanismtools --
+Details:
+	Mod file: /C:/Users/danbro/AppData/Roaming/PrismLauncher/instances/SleepDevNew/minecraft/mods/MekanismTools-1.21.1-10.7.16.82.jar
+	Failure message: Mod mekanismtools requires mekanism 10.7.16
+		Currently, mekanism is 10.7.15
+		
+	Mod version: 10.7.16
+	Mod issues URL: https://github.com/mekanism/Mekanism/issues
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 264378640 bytes (252 MiB) / 650117120 bytes (620 MiB) up to 4294967296 bytes (4096 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 3.39
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: NVIDIA GeForce GTX 560 Ti
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 21.21.13.7654
+	Graphics card #1 name: NVIDIA Quadro K620
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 2048.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 32.0.15.7216
+	Memory slot #0 capacity (MiB): 4096.00
+	Memory slot #0 clockSpeed (GHz): 1.33
+	Memory slot #0 type: DDR3
+	Memory slot #1 capacity (MiB): 4096.00
+	Memory slot #1 clockSpeed (GHz): 1.33
+	Memory slot #1 type: DDR3
+	Memory slot #2 capacity (MiB): 4096.00
+	Memory slot #2 clockSpeed (GHz): 1.33
+	Memory slot #2 type: DDR3
+	Memory slot #3 capacity (MiB): 4096.00
+	Memory slot #3 clockSpeed (GHz): 1.33
+	Memory slot #3 type: DDR3
+	Virtual memory max (MiB): 39841.77
+	Virtual memory used (MiB): 15603.54
+	Swap memory total (MiB): 23552.00
+	Swap memory used (MiB): 347.34
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 52460.27, total: 228834.00
+	Space in storage for workdir (MiB): available: 52460.27, total: 228834.00
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.41.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.41.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.41.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.200-universal.jar                   |NeoForge                      |neoforge                      |21.1.200            |Manifest: NOSIGNATURE

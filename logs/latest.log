@@ -1,0 +1,30 @@
+[23Sep2025 11:53:56.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52131493ms or 1042629 ticks behind
+[23Sep2025 11:56:49.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[23Sep2025 12:34:08.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076608ms or 41532 ticks behind
+[23Sep2025 12:46:07.270] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 563 advancements
+[23Sep2025 12:46:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [true_toster: Ваш режим игры изменён на Режим выживания]
+[23Sep2025 12:46:32.669] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Ваш режим игры изменён на Режим выживания
+[23Sep2025 12:46:43.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [true_toster: Ваш режим игры изменён на Творческий режим]
+[23Sep2025 12:46:43.107] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Ваш режим игры изменён на Творческий режим
+[23Sep2025 21:44:24.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30251475ms or 605029 ticks behind
+[23Sep2025 21:53:07.642] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[23Sep2025 21:53:07.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: true_toster lost connection: Отключение
+[23Sep2025 21:53:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: true_toster покинул игру
+[23Sep2025 21:53:07.981] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[23Sep2025 21:53:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Sep2025 21:53:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Sep2025 21:53:08.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Sep2025 21:53:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[23Sep2025 21:53:08.719] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
+[23Sep2025 21:53:08.751] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[23Sep2025 21:53:08.752] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[23Sep2025 21:53:08.759] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[23Sep2025 21:53:08.763] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 10.32 milliseconds
+[23Sep2025 21:53:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[23Sep2025 21:53:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[23Sep2025 21:53:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ae2:spatial_storage
+[23Sep2025 21:53:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Новый мир): All chunks are saved
+[23Sep2025 21:53:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Sep2025 21:53:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Sep2025 21:53:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[23Sep2025 21:53:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

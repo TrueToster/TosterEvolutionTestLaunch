@@ -1,0 +1,16 @@
+filename = 'appliedenergistics2-19.2.15.jar'
+name = 'Applied Energistics 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cab23b5bfc2d6592d741f41d4dc6b3d1b7b18f16a64f2d824f75fb5b458090043025a651568b4a0c11956d78a36ca93cf67c84ba29b93080bcb179b80dd2ec9d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XxWD5pD3/versions/gl74ldr3/appliedenergistics2-19.2.15.jar'
+
+[update.modrinth]
+mod-id = 'XxWD5pD3'
+version = 'gl74ldr3'
