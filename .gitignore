@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# files
+icon.png
+options.txt
+command_history.json
+usercache.json
+usernamecache.json
+
+# dir
+shaderpacks/
+texturepacks/
+xaero/
