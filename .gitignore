@@ -26,14 +26,13 @@ replay_pid*
 # files
 icon.png
 options.txt
-command_history.json
+command_history.txt
 usercache.json
 usernamecache.json
 
 # dir
 shaderpacks/
 texturepacks/
-xaero/
 saves/
 logs/
 crash-reports/
